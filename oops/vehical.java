@@ -1,3 +1,4 @@
+package oops;
 abstract class vehical{
     void fuelType(){
         System.out.println("hello");

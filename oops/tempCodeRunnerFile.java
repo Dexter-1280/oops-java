@@ -1,3 +1,4 @@
+package oops;
 interface onlinePayment{
     void payOnlinne();
 }

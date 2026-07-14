@@ -1,3 +1,4 @@
+package oops;
 // Interface
 interface ElectronicDevice {
     void turnOn(); // Abstract method

@@ -1,3 +1,4 @@
+package oops;
 //Interface
 interface Animal {
 void makeSound(); // Abstract method
